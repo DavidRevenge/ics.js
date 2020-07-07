@@ -76,4 +76,4 @@ Supported Browsers
 Credits
 ------------------
 * [Travis Krause](https://github.com/nwcell): Me
-* [Kyle Hornberg](https://github.com/khornberg): Added multi event functionality and made everything a package firendly
+* [Kyle Hornberg](https://github.com/khornberg): Added multi event functionality and made everything a package friendly
